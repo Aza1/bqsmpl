@@ -1,0 +1,9 @@
+name: bqsmplapp
+description: Dlala ngezinto ezimbalwa
+
+dependencies:
+- google_bigquery_v2_api: 
+- google_oauth2_client_api:
+
+transformers: 
+- polymer_entry_points: [index.html,]
